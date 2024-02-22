@@ -1,7 +1,7 @@
-###Hej there
+### Hej there
 my name is Paula, a lifelong learner, teamplayer, creative mind and frontend developer. :leaves:
 
-##Tech Stack
+## Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
